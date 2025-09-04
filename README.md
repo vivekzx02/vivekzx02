@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm vivek kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Gaming Website (Responsive)](https://vivekzx02.github.io/Gaming/)
+- 🔭 I’m currently working on [Portfolio,landing Pages]
 
 - 🌱 I’m currently learning **React.js, JavaScript ES6+, Tailwind CSS**
 
